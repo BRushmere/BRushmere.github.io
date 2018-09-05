@@ -4,7 +4,8 @@ This is my Github page to upload my python files applicable to analysing financi
 
 ## Current projects
 
-- [ ] Bollinger Band
-- [ ] Project 2
-- [ ] Project 3
+- Technical Analysis
+  - [ ] Bollinger Band
+- Project 2
+- Project 3
 
