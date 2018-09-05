@@ -4,9 +4,9 @@ This is my Github page to upload my python files applicable to analysing financi
 
 ## Current projects
 
-* Project 1
-* Project 2
-
+- [x] Project 1
+- [ ] Project 2
+- [ ] Project 3
 
 
 
