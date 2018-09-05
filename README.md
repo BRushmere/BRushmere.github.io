@@ -1,6 +1,6 @@
-# Project Title
+# Project Python & Finance
 
-One Paragraph of project description goes here
+This is my project to upload my python files applicable to analysing financial markets and stocks
 
 ## Getting Started
 
