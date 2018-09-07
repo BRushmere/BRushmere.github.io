@@ -8,5 +8,12 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] Bollinger Band
 - Regression Models
   - [ ] Simple Linear
-- Project 3
+- Probability distributions
+- Monte-Carlo simulation
+- Sampling
+- Estimation
+- Chi-Square
+- Time Series
+-
+
 
