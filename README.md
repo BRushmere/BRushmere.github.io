@@ -21,8 +21,8 @@ This is my Github page to upload my python files applicable to analysing financi
 - Bayesian Estimation for continuous variables
 - Monte-Carlo simulation
 - Sampling
-- [ ] Stratified sampling
-- [ ] Clustered random sampling
+  - [ ] Stratified sampling
+  - [ ] Clustered random sampling
 - Estimation
 - Central limit theorem
 - Chi-Square Test
