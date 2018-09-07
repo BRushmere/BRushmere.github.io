@@ -6,12 +6,20 @@ This is my Github page to upload my python files applicable to analysing financi
 
 - Technical Analysis
   - [ ] Bollinger Band
+- Discrete distributions
+  - [ ] Binomial & normal approximation
+  - [ ] Poisson (useful when p is very small in binomial dist.)
+  - [ ] Hyper Geometric
+- Continuous distributions
+  - [ ] Normal distribution
+  - [ ] Exponential distribution
+- Difference in means
 - Regression Models
   - [ ] Simple Linear
-- Probability distributions
 - Monte-Carlo simulation
 - Sampling
 - Estimation
+- Central limit theorem
 - Chi-Square
 - Time Series
 -
