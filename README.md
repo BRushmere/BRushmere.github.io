@@ -6,6 +6,7 @@ This is my Github page to upload my python files applicable to analysing financi
 
 - Technical Analysis
   - [ ] Bollinger Band
-- Project 2
+- Regression Models
+  - [ ] Simple Linear
 - Project 3
 
