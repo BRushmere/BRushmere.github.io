@@ -15,7 +15,8 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] Exponential distribution
 - Difference in means
 - Regression Models
-  - [ ] Simple Linear
+  - [ ] Single Linear
+  - [ ] Mulitple Linear
 - Monte-Carlo simulation
 - Sampling
 - Estimation
