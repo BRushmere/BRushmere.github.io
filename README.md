@@ -13,7 +13,7 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] Hyper Geometric
 - Continuous distributions
   - [ ] Normal distribution
-        - [ ] Skewness & kurtosis
+    - [ ] Skewness & kurtosis
   - [ ] Log-Normal distribution
   - [ ] Exponential distribution
 - Difference in means
