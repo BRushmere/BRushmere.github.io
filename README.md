@@ -17,6 +17,14 @@ This is my Github page to upload my python files applicable to analysing financi
     - [ ] Skewness & kurtosis
   - [ ] Log-Normal distribution
   - [ ] Exponential distribution
+- Tests
+  -Parametric
+    - [ ] Pearson correlation
+    - [ ] Two sample (Student) 𝑡-test: compare two means
+  - Non-parametric
+   - [ ] Spearman-rank order
+   - [ ] Wilcoxon signed rank
+   - [ ] Mann-whitney U-test
 - Regression Models
   - [ ] Single Linear
   - [ ] Mulitple Linear
@@ -35,8 +43,9 @@ This is my Github page to upload my python files applicable to analysing financi
 - Time Series
   - [ ] Random walk
   - [ ] Drift diffusion
-  - [ ] AR(n)
-  - [ ] MA(n)
+  - [ ] AR(p)
+  - [ ] MA(q)
+  - [ ] ARMA(p,q)
   - [ ] GARCH
   - [ ] Jump-diffusion
 
