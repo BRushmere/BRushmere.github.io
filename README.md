@@ -7,6 +7,7 @@ This is my Github page to upload my python files applicable to analysing financi
 - Technical Analysis
   - [ ] Moving averages
   - [ ] Bollinger Band
+  - [ ] Exponential smoothing
 - Discrete distributions
   - [ ] Binomial & normal approximation
   - [ ] Poisson (useful when p is very small in binomial dist.)
@@ -16,13 +17,13 @@ This is my Github page to upload my python files applicable to analysing financi
     - [ ] Skewness & kurtosis
   - [ ] Log-Normal distribution
   - [ ] Exponential distribution
-- Difference in means
 - Regression Models
   - [ ] Single Linear
   - [ ] Mulitple Linear
 - Bayesian Statistics
   - [ ] Estimation for continuous variables
 - Monte-Carlo simulation
+- [ ] Black-Scholes
 - Sampling
   - [ ] Stratified sampling
   - [ ] Clustered random sampling
