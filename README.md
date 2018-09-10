@@ -36,3 +36,5 @@ This is my Github page to upload my python files applicable to analysing financi
 
 ## Portfolio management
 
+- Cholesky decomposition (Fin Risk textbook pg 184)
+
