@@ -20,7 +20,8 @@ This is my Github page to upload my python files applicable to analysing financi
 - Regression Models
   - [ ] Single Linear
   - [ ] Mulitple Linear
-- Bayesian Estimation for continuous variables
+- Bayesian Statistics
+  - [ ] Estimation for continuous variables
 - Monte-Carlo simulation
 - Sampling
   - [ ] Stratified sampling
