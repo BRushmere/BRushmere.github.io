@@ -18,7 +18,7 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] Log-Normal distribution
   - [ ] Exponential distribution
 - Tests
-  -Parametric
+  - Parametric
     - [ ] Pearson correlation
     - [ ] Two sample (Student) 𝑡-test: compare two means
   - Non-parametric
