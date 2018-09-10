@@ -28,15 +28,6 @@ This is my Github page to upload my python files applicable to analysing financi
 - Regression Models
   - [ ] Single Linear
   - [ ] Mulitple Linear
-- Bayesian Statistics
-  - [ ] Estimation for continuous variables
-- Monte-Carlo simulation
-- Black-Scholes
-- Sampling
-  - [ ] Stratified sampling
-  - [ ] Clustered random sampling
-- Estimation
-- Central limit theorem
 - Chi-Square Test
   - [ ] Goodness of Fit (determines if a sample data matches a population)
   - [ ] Test For Independance (compares two variables in a contingency table to see if they are related)
@@ -48,6 +39,15 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] ARMA(p,q)
   - [ ] GARCH
   - [ ] Jump-diffusion
+- Bayesian Statistics
+  - [ ] Estimation for continuous variables
+- Monte-Carlo simulation
+- Black-Scholes
+- Sampling
+  - [ ] Stratified sampling
+  - [ ] Clustered random sampling
+- Estimation
+- Central limit theorem
 
 ## Portfolio management
 
