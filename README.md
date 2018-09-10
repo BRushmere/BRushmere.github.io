@@ -32,7 +32,12 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] Goodness of Fit (determines if a sample data matches a population)
   - [ ] Test For Independance (compares two variables in a contingency table to see if they are related)
 - Time Series
-  - [ ] 
+  - [ ] Random walk
+  - [ ] Drift diffusion
+  - [ ] AR(n)
+  - [ ] MA(n)
+  - [ ] GARCH
+  - [ ] Jump-diffusion
 
 ## Portfolio management
 
