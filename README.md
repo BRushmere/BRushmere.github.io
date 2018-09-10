@@ -22,9 +22,9 @@ This is my Github page to upload my python files applicable to analysing financi
     - [ ] Pearson correlation
     - [ ] Two sample (Student) 𝑡-test: compare two means
   - Non-parametric
-   - [ ] Spearman-rank order
-   - [ ] Wilcoxon signed rank
-   - [ ] Mann-whitney U-test
+    - [ ] Spearman-rank order
+    - [ ] Wilcoxon signed rank
+    - [ ] Mann-whitney U-test
 - Regression Models
   - [ ] Single Linear
   - [ ] Mulitple Linear
