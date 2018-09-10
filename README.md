@@ -44,3 +44,4 @@ This is my Github page to upload my python files applicable to analysing financi
 
 - Cholesky decomposition (Fin Risk textbook pg 184)
 
+## Equity valuation
