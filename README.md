@@ -2,7 +2,7 @@
 
 This is my Github page to upload my python files applicable to analysing financial markets and stocks.
 
-## Current projects
+## Statistics
 
 - Technical Analysis
   - [ ] Moving averages
@@ -32,4 +32,5 @@ This is my Github page to upload my python files applicable to analysing financi
 - Time Series
   - [ ] 
 
+## Portfolio management
 
