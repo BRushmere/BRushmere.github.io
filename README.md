@@ -23,7 +23,7 @@ This is my Github page to upload my python files applicable to analysing financi
 - Bayesian Statistics
   - [ ] Estimation for continuous variables
 - Monte-Carlo simulation
-- [ ] Black-Scholes
+- Black-Scholes
 - Sampling
   - [ ] Stratified sampling
   - [ ] Clustered random sampling
