@@ -6,7 +6,7 @@ This is my Github page to upload my python files applicable to analysing financi
 
 - Technical Analysis
   - [ ] Moving averages
-  - [x] Bollinger Band
+  - [X] Bollinger Band
   - [ ] Exponential smoothing
 - Discrete distributions
   - [ ] Binomial & normal approximation
