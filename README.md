@@ -7,7 +7,6 @@ This is my Github page to upload my python files applicable to analysing financi
 - Technical Analysis
   - [ ] Moving averages
   - [X] Bollinger Band
-  - [ ] Exponential smoothing
 - Discrete distributions
   - [ ] Binomial & normal approximation
   - [ ] Poisson (useful when p is very small in binomial dist.)
@@ -32,12 +31,12 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] Goodness of Fit (determines if a sample data matches a population)
   - [ ] Test For Independance (compares two variables in a contingency table to see if they are related)
 - Time Series
-  - [ ] Random walk
-  - [ ] Drift diffusion
+  - [x] Random walk
   - [ ] AR(p)
   - [ ] MA(q)
   - [ ] ARMA(p,q)
   - [ ] GARCH
+  - [ ] Drift diffusion
   - [ ] Jump-diffusion
 - Bayesian Statistics
   - [ ] Estimation for continuous variables
