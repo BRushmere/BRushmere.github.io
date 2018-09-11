@@ -7,6 +7,12 @@ This is my Github page to upload my python files applicable to analysing financi
 - Technical Analysis
   - [ ] Moving averages
   - [X] [Bollinger Band](https://github.com/BRushmere/Finance-Models/blob/master/Bollinger_band.ipynb)
+  
+```python
+import pandas as pd
+x = 4
+print(len(x))
+```
 - Discrete distributions
   - [ ] Binomial & normal approximation
   - [ ] Poisson (useful when p is very small in binomial dist.)
