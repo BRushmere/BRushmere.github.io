@@ -6,7 +6,7 @@ This is my Github page to upload my python files applicable to analysing financi
 
 - Technical Analysis
   - [ ] Moving averages
-  - [ ] Bollinger Band
+  - [x] Bollinger Band
   - [ ] Exponential smoothing
 - Discrete distributions
   - [ ] Binomial & normal approximation
@@ -47,7 +47,7 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] Stratified sampling
   - [ ] Clustered random sampling
 - Estimation
-- Central limit theorem
+- [x] Central limit theorem
 
 ## Portfolio management
 
