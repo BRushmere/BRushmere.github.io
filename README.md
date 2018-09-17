@@ -13,7 +13,7 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] Poisson (useful when p is very small in binomial dist.)
   - [ ] Hyper Geometric
 - Continuous distributions
-  - [ ] Normal distribution
+  - [x] [Normal distribution](https://github.com/BRushmere/BRushmere.github.io/blob/master/Normal_distribution.ipynb)
     - [ ] Skewness & kurtosis
   - [ ] Log-Normal distribution
   - [ ] Exponential distribution
