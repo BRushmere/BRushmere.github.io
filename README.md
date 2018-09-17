@@ -31,7 +31,7 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] Goodness of Fit (determines if a sample data matches a population)
   - [ ] Test For Independance (compares two variables in a contingency table to see if they are related)
 - Time Series
-  - [x] Random walk
+  - [x] [Random walk](https://github.com/BRushmere/BRushmere.github.io/blob/master/Random%20walk.ipynb)
   - [ ] AR(p)
   - [ ] MA(q)
   - [ ] ARMA(p,q)
@@ -40,13 +40,13 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] Jump-diffusion
 - Bayesian Statistics
   - [ ] Estimation for continuous variables
-- Monte-Carlo simulation
+- [x] [Monte-Carlo simulation](https://github.com/BRushmere/BRushmere.github.io/blob/master/MonteCarlo.ipynb)
 - Black-Scholes
 - Sampling
   - [ ] Stratified sampling
   - [ ] Clustered random sampling
 - Estimation
-- [x] Central limit theorem
+- [x] [Central limit theorem](https://github.com/BRushmere/BRushmere.github.io/blob/master/Central%20limit%20theorem.ipynb)
 
 ## Portfolio management
 
