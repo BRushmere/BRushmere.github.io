@@ -30,7 +30,8 @@ This is my work in progress Github page to upload python files applicable to ana
   - [x] [Single Linear](https://github.com/BRushmere/BRushmere.github.io/blob/master/Simple%20Regression%20Model.py)
   - [ ] Mulitple Linear
 - Chi-Square Test
-  - [ ] Goodness of Fit (determines if a sample data matches a population)
+  - [ ] Chi^2 Goodness of Fit 
+  - [ ] Kolmogorov-Smirnoff test
   - [ ] Test For Independance (compares two variables in a contingency table to see if they are related)
 - Time Series
   - [x] [Random walk](https://github.com/BRushmere/BRushmere.github.io/blob/master/Random%20walk.ipynb)
