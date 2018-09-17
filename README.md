@@ -10,7 +10,7 @@ This is my work in progress Github page to upload python files applicable to ana
 - Discrete distributions
   - [x] [Bernoulli trial](https://github.com/BRushmere/BRushmere.github.io/blob/master/Bernoulli_trial.ipynb)
   - [x] [Binomial](https://github.com/BRushmere/BRushmere.github.io/blob/master/Binomial.py)
-  - [ ] Poisson (useful when p is very small in binomial dist.)
+  - [ ] Poisson
   - [ ] Hyper Geometric
 - Continuous distributions
   - [x] [Normal distribution](https://github.com/BRushmere/BRushmere.github.io/blob/master/Normal_distribution.ipynb)
