@@ -8,6 +8,7 @@ This is my Github page to upload my python files applicable to analysing financi
   - [ ] Moving averages
   - [X] [Bollinger Band](https://github.com/BRushmere/Finance-Models/blob/master/Bollinger_band.ipynb)
 - Discrete distributions
+  - [x] [Bernoulli trial](https://github.com/BRushmere/BRushmere.github.io/blob/master/Bernoulli_trial.ipynb)
   - [ ] Binomial & normal approximation
   - [ ] Poisson (useful when p is very small in binomial dist.)
   - [ ] Hyper Geometric
@@ -25,7 +26,7 @@ This is my Github page to upload my python files applicable to analysing financi
     - [ ] Wilcoxon signed rank
     - [ ] Mann-whitney U-test
 - Regression Models
-  - [ ] Single Linear
+  - [x] [Single Linear](https://github.com/BRushmere/BRushmere.github.io/blob/master/Simple%20Regression%20Model.py)
   - [ ] Mulitple Linear
 - Chi-Square Test
   - [ ] Goodness of Fit (determines if a sample data matches a population)
