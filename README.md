@@ -15,6 +15,7 @@ This is my work in progress Github page to upload python files applicable to ana
 - Continuous distributions
   - [x] [Normal distribution](https://github.com/BRushmere/BRushmere.github.io/blob/master/Normal_distribution.ipynb)
     - [ ] Skewness & kurtosis
+  - [x] [Chi-Squared](https://github.com/BRushmere/BRushmere.github.io/blob/master/ChiSquared.ipynb)
   - [ ] Log-Normal distribution
   - [ ] Exponential distribution
 - Tests
