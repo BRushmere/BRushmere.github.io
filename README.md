@@ -9,7 +9,7 @@ This is my Github page to upload my python files applicable to analysing financi
   - [X] [Bollinger Band](https://github.com/BRushmere/Finance-Models/blob/master/Bollinger_band.ipynb)
 - Discrete distributions
   - [x] [Bernoulli trial](https://github.com/BRushmere/BRushmere.github.io/blob/master/Bernoulli_trial.ipynb)
-  - [ ] Binomial & normal approximation
+  - [x] [Binomial](https://github.com/BRushmere/BRushmere.github.io/blob/master/Binomial.py)
   - [ ] Poisson (useful when p is very small in binomial dist.)
   - [ ] Hyper Geometric
 - Continuous distributions
