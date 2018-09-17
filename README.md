@@ -1,6 +1,6 @@
 # Project Python & Finance
 
-This is my Github page to upload my python files applicable to analysing financial markets and stocks.
+This is my work in progress Github page to upload my python files applicable to analysing financial markets and stocks.
 
 ## Statistics
 
