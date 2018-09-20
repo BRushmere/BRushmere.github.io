@@ -14,7 +14,6 @@ This is my work in progress Github page to upload python files applicable to ana
   - [ ] Hyper Geometric
 - Continuous distributions
   - [x] [Normal distribution](https://github.com/BRushmere/BRushmere.github.io/blob/master/Normal_distribution.ipynb)
-    - [ ] Skewness & kurtosis
   - [x] [Chi-Squared](https://github.com/BRushmere/BRushmere.github.io/blob/master/ChiSquared.ipynb)
   - [ ] Log-Normal distribution
   - [ ] Exponential distribution
@@ -22,6 +21,7 @@ This is my work in progress Github page to upload python files applicable to ana
   - Parametric
     - [ ] Pearson correlation
     - [ ] Two sample (Student) 𝑡-test: compare two means
+    - [ ] Test for Skewness
   - Non-parametric
     - [ ] Spearman-rank order
     - [ ] Wilcoxon signed rank
