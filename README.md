@@ -49,8 +49,10 @@ This is my work in progress Github page to upload python files applicable to ana
 - Estimation
 - [x] [Central limit theorem](https://github.com/BRushmere/BRushmere.github.io/blob/master/Central%20limit%20theorem.ipynb)
 
+## Backtesting
+
 ## Portfolio management
 
-
-
 ## Equity valuation
+
+## Machine Learning
