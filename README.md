@@ -41,8 +41,6 @@ This is my work in progress Github page to upload python files applicable to ana
   - [ ] GARCH
   - [ ] Drift diffusion
   - [ ] Jump-diffusion
-- Bayesian Statistics
-  - [ ] Estimation for continuous variables
 - [x] [Monte-Carlo simulation](https://github.com/BRushmere/BRushmere.github.io/blob/master/MonteCarlo.ipynb)
 - [x] [Black-Scholes-Merton Model](https://github.com/BRushmere/BRushmere.github.io/blob/master/BSM_call.py)
 - Sampling
@@ -53,6 +51,6 @@ This is my work in progress Github page to upload python files applicable to ana
 
 ## Portfolio management
 
-- Cholesky decomposition
+
 
 ## Equity valuation
