@@ -21,17 +21,18 @@ This is my work in progress Github page to upload python files applicable to ana
   - Parametric
     - [ ] Pearson correlation
     - [ ] Two sample (Student) 𝑡-test: compare two means
-    - [ ] Test for Skewness
+    - [ ] Skewness & Kurtosis test
   - Non-parametric
     - [ ] Spearman-rank order
     - [ ] Wilcoxon signed rank
     - [ ] Mann-whitney U-test
 - Regression Models
   - [x] [Single Linear](https://github.com/BRushmere/BRushmere.github.io/blob/master/Simple%20Regression%20Model.py)
+  - [x] [Single Linear (pandas)](https://github.com/BRushmere/BRushmere.github.io/blob/master/LinRegression%20Pandas.py)
   - [ ] Mulitple Linear
 - Goodness of Fit Tests
   - [ ] Chi^2 Goodness of Fit 
-  - [ ] Kolmogorov-Smirnoff test
+  - [x] [Kolmogorov-Smirnoff test](https://github.com/BRushmere/BRushmere.github.io/blob/master/Kolmogorov-Smirnoff%20test.py)
 - Time Series
   - [x] [Random walk](https://github.com/BRushmere/BRushmere.github.io/blob/master/Random%20walk.ipynb)
   - [ ] AR(p)
