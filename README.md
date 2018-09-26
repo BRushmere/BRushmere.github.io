@@ -40,8 +40,8 @@ This is my **work-in-progress** Github page to upload python files applicable to
   - [ ] MA(q)
   - [ ] ARMA(p,q)
   - [ ] GARCH
-- Interest Rate Models
   - [ ] Jump-diffusion
+- Interest Rate Models
 - [x] [Monte-Carlo simulation](https://github.com/BRushmere/BRushmere.github.io/blob/master/MonteCarlo.ipynb)
 - [x] [Black-Scholes-Merton Model](https://github.com/BRushmere/BRushmere.github.io/blob/master/BSM_call.py)
 - Sampling
