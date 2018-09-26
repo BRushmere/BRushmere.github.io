@@ -21,7 +21,7 @@ This is my **work-in-progress** Github page to upload python files applicable to
   - Parametric
     - [ ] Pearson correlation
     - [ ] Two sample (Student) 𝑡-test: compare two means
-    - [ ] Skewness & Kurtosis test
+    - [x] [Skewness & Kurtosis test](https://github.com/BRushmere/BRushmere.github.io/blob/master/Skewness%20%26%20Kurtosis.ipynb)
   - Non-parametric
     - [ ] Spearman-rank order
     - [ ] Wilcoxon signed rank
