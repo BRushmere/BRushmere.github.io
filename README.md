@@ -35,12 +35,12 @@ This is my **work-in-progress** Github page to upload python files applicable to
   - [x] [Kolmogorov-Smirnoff test](https://github.com/BRushmere/BRushmere.github.io/blob/master/Kolmogorov-Smirnoff%20test.py)
 - Time Series
   - [x] [Random walk](https://github.com/BRushmere/BRushmere.github.io/blob/master/Random%20walk.ipynb)
+  - [ ] Drift diffusion
   - [ ] AR(p)
   - [ ] MA(q)
   - [ ] ARMA(p,q)
   - [ ] GARCH
 - Interest Rate Models
-  - [ ] Drift diffusion
   - [ ] Jump-diffusion
 - [x] [Monte-Carlo simulation](https://github.com/BRushmere/BRushmere.github.io/blob/master/MonteCarlo.ipynb)
 - [x] [Black-Scholes-Merton Model](https://github.com/BRushmere/BRushmere.github.io/blob/master/BSM_call.py)
