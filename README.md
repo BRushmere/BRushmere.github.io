@@ -39,6 +39,7 @@ This is my work in progress Github page to upload python files applicable to ana
   - [ ] MA(q)
   - [ ] ARMA(p,q)
   - [ ] GARCH
+- Interest Rate Models
   - [ ] Drift diffusion
   - [ ] Jump-diffusion
 - [x] [Monte-Carlo simulation](https://github.com/BRushmere/BRushmere.github.io/blob/master/MonteCarlo.ipynb)
