@@ -53,7 +53,7 @@ This is my **work-in-progress** Github page to upload python files applicable to
 ## Backtesting
 
 ## Portfolio management
-- [x] [Portfolio expected return, variance and covariance]
+- [x] [Portfolio expected return, variance and covariance](https://github.com/BRushmere/BRushmere.github.io/blob/master/Std%26Variance%26%20Covariance.ipynb)
 ## Equity valuation
 
 ## Machine learning
