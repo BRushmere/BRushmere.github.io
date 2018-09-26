@@ -53,7 +53,7 @@ This is my **work-in-progress** Github page to upload python files applicable to
 ## Backtesting
 
 ## Portfolio management
-
+- [x] [Portfolio expected return, variance and covariance]
 ## Equity valuation
 
 ## Machine learning
