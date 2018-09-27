@@ -7,11 +7,11 @@ This is my **work-in-progress** Github page to upload python files applicable to
   #### Trend
   - [ ] Moving averages
   - [ ] MACD
-  #### Momentum
+#### Momentum
   - [ ] RSI
-  #### Volatility
+#### Volatility
   - [X] [Bollinger Band](https://github.com/BRushmere/Finance-Models/blob/master/Bollinger_band.ipynb)
-  #### Volume
+#### Volume
   
 ## Statistics 
 - Discrete distributions
