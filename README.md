@@ -69,9 +69,9 @@ This is my **work-in-progress** Github page to upload python files applicable to
 **Interest Rate Models**
   - Cox-Ingersol model
 
-[**Monte-Carlo simulation**](https://github.com/BRushmere/BRushmere.github.io/blob/master/MonteCarlo.ipynb)
+[Monte-Carlo simulation](https://github.com/BRushmere/BRushmere.github.io/blob/master/MonteCarlo.ipynb)
 
-[**Black-Scholes-Merton Model**](https://github.com/BRushmere/BRushmere.github.io/blob/master/BSM_call.py)
+[Black-Scholes-Merton Model](https://github.com/BRushmere/BRushmere.github.io/blob/master/BSM_call.py)
 
 **Sampling**
 - [ ] Stratified sampling
@@ -79,7 +79,7 @@ This is my **work-in-progress** Github page to upload python files applicable to
 
 **Estimation**
 
-[**Central limit theorem**](https://github.com/BRushmere/BRushmere.github.io/blob/master/Central%20limit%20theorem.ipynb)
+[Central limit theorem](https://github.com/BRushmere/BRushmere.github.io/blob/master/Central%20limit%20theorem.ipynb)
 
 ## Portfolio management
 - [x] [Portfolio expected return, variance and covariance](https://github.com/BRushmere/BRushmere.github.io/blob/master/Std%26Variance%26%20Covariance.ipynb)
