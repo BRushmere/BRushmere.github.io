@@ -7,7 +7,7 @@ This is my **work-in-progress** Github page to upload python files applicable to
 ### Trend
   
   - [ ] Moving averages
-    - [ ] MACD
+  - [ ] MACD
 
 ### Momentum
   
