@@ -50,10 +50,11 @@ This is my **work-in-progress** Github page to upload python files applicable to
 - Estimation
 - [x] [Central limit theorem](https://github.com/BRushmere/BRushmere.github.io/blob/master/Central%20limit%20theorem.ipynb)
 
-## Backtesting
-
 ## Portfolio management
 - [x] [Portfolio expected return, variance and covariance](https://github.com/BRushmere/BRushmere.github.io/blob/master/Std%26Variance%26%20Covariance.ipynb)
+
+## Backtesting
+
 ## Equity valuation
 
 ## Machine learning
