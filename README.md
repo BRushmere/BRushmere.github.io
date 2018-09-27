@@ -3,7 +3,7 @@
 This is my **work-in-progress** Github page to upload python files applicable to analysing financial markets and stocks.
 
 ## Technical Analysis
-  ####Trend
+  #### Trend
   - [ ] Moving averages
   - [ ] MACD
   #### Momentum
@@ -12,7 +12,7 @@ This is my **work-in-progress** Github page to upload python files applicable to
   - [X] [Bollinger Band](https://github.com/BRushmere/Finance-Models/blob/master/Bollinger_band.ipynb)
   #### Volume
   
- ## Statistics 
+## Statistics 
 - Discrete distributions
   - [x] [Bernoulli trial](https://github.com/BRushmere/BRushmere.github.io/blob/master/Bernoulli_trial.ipynb)
   - [x] [Binomial](https://github.com/BRushmere/BRushmere.github.io/blob/master/Binomial.py)
