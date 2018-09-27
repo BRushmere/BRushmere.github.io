@@ -49,7 +49,7 @@ This is my **work-in-progress** Github page to upload python files applicable to
 
 - [Single Linear](https://github.com/BRushmere/BRushmere.github.io/blob/master/Simple%20Regression%20Model.py)
 - [Single Linear (pandas)](https://github.com/BRushmere/BRushmere.github.io/blob/master/LinRegression%20Pandas.py)
-- [Mulitple Linear(pandas)](https://github.com/BRushmere/BRushmere.github.io/blob/master/Multiple%20regression%20(pandas).py)
+- [Mulitple Linear(pandas)](https://github.com/BRushmere/BRushmere.github.io/blob/master/Multiple%20linear%20regression(pandas).ipynb)
 
 **Goodness of Fit Tests**
 
