@@ -69,6 +69,7 @@ This is my **work-in-progress** Github page to upload python files applicable to
 **Interest Rate Models**
 
 [Monte-Carlo simulation](https://github.com/BRushmere/BRushmere.github.io/blob/master/MonteCarlo.ipynb)
+
 [Black-Scholes-Merton Model](https://github.com/BRushmere/BRushmere.github.io/blob/master/BSM_call.py)
 
 **Sampling**
