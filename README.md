@@ -17,7 +17,7 @@ Volatility
   
   - [x] [Bollinger Band](https://github.com/BRushmere/Finance-Models/blob/master/Bollinger_band.ipynb)
 
-### Volume
+Volume
   
 ## Statistics 
 - Discrete distributions
