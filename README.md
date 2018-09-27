@@ -9,7 +9,7 @@ This is my **work-in-progress** Github page to upload python files applicable to
   ### Momentum
     - [ ] RSI
   ### Volatility
-    - [X] [Bollinger Band](https://github.com/BRushmere/Finance-Models/blob/master/Bollinger_band.ipynb)
+    - [x] [Bollinger Band](https://github.com/BRushmere/Finance-Models/blob/master/Bollinger_band.ipynb)
   ### Volume
   
 ## Statistics 
