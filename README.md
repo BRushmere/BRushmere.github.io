@@ -4,7 +4,7 @@ This is my **work-in-progress** Github page to upload python files applicable to
 
 ## Technical Analysis
 
-  #### Trend
+#### Trend
   - [ ] Moving averages
   - [ ] MACD
 #### Momentum
