@@ -87,7 +87,6 @@ Created: 2 September 2018
 - [Portfolio expected return, variance and covariance](https://github.com/BRushmere/BRushmere.github.io/blob/master/Std%26Variance%26%20Covariance.ipynb)
 
 ## Backtesting
-
-## Equity valuation
+- [Bollinger band backtesting strategy](https://github.com/BRushmere/BRushmere.github.io/blob/master/Bollinger%20band%20backtest.ipynb)
 
 ## Machine learning
