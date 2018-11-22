@@ -90,4 +90,6 @@ Created: 2 September 2018
 - [Bollinger band backtesting strategy](https://github.com/BRushmere/BRushmere.github.io/blob/master/Bollinger%20band%20backtest.ipynb)
 
 ## Machine learning
-- KNN Classification
+- Supervised
+  - KNN Classification
+  - Decision Trees
