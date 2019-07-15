@@ -1,8 +1,6 @@
 # Project Python & Finance
 
-This is my **work-in-progress** Github page to upload python files applicable to analysing financial markets and stocks.
-
-Created: 2 September 2018
+This is my very **work-in-progress** Github page to upload python files applicable to analysing financial markets and stocks.
 
 ## Technical Analysis
 **Trend**
