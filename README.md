@@ -91,5 +91,11 @@ Created: 2 September 2018
 
 ## Machine learning
 - Supervised
+  - Penealized Regression
   - KNN Classification
-  - Decision Trees
+  - Decision Trees (CART)
+  - Neural Networks
+- Unsupervised
+  - Clustering Algorithms
+  - Dimension Reduction
+  - 
