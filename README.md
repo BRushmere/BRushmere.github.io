@@ -4,7 +4,7 @@ This is my very **work-in-progress** Github page to upload python files applicab
 
 ![Name](IMG-20191130-WA00012.jpeg)
 
-```html
+```
 from math import factorial as fac
 
 def manual_pmf(p, n, k):
