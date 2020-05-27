@@ -5,12 +5,64 @@ This is my very **work-in-progress** Github page to upload python files applicab
 ![Name](IMG-20191130-WA00012.jpeg)
 
 ```
-from math import factorial as fac
-
-def manual_pmf(p, n, k):
-    return fac(n) / (fac(k) * fac(n - k)) * p**k * (1-p)**(n-k)
-
-print(manual_pmf(p=0.25, n=3, k=2))
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "1\n"
+     ]
+    }
+   ],
+   "source": [
+    "import numpy as np\n",
+    "\n",
+    "def Bernoulli(p):\n",
+    "    \n",
+    "        if p<np.random.rand():\n",
+    "            return 1\n",
+    "        else:\n",
+    "            return 0\n",
+    "  \n",
+    "print(Bernoulli(0.4))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
 ```
 
 ## Technical Analysis
