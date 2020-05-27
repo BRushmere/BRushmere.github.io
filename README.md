@@ -4,6 +4,8 @@ This is my very **work-in-progress** Github page to upload python files applicab
 
 ![Name](IMG-20191130-WA00012.jpeg)
 
+[Bollinger Band](https://brushmere.github.io/Bollinger-Band/)
+
 ```python
 
 import numpy as np
