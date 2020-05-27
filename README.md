@@ -1,7 +1,3 @@
----
-title-heading: false
----
-
 # Project Python & Finance
 
 This is my very **work-in-progress** Github page to upload python files applicable to analysing financial markets and stocks.
