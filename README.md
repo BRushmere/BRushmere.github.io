@@ -13,6 +13,8 @@ This is my very **work-in-progress** Github page to upload python files applicab
             <h2>Your title</h2>
             <div class="wrap">
             //Your content
+            A=1+2
+            
             </div>
         </div>
     </div>
