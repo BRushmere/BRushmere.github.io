@@ -5,20 +5,12 @@ This is my very **work-in-progress** Github page to upload python files applicab
 ![Name](IMG-20191130-WA00012.jpeg)
 
 ```html
-<h2>Example of code</h2>
+from math import factorial as fac
 
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            A=1+2
-            
-            </div>
-        </div>
-    </div>
-</pre>
+def manual_pmf(p, n, k):
+    return fac(n) / (fac(k) * fac(n - k)) * p**k * (1-p)**(n-k)
+
+print(manual_pmf(p=0.25, n=3, k=2))
 ```
 
 ## Technical Analysis
