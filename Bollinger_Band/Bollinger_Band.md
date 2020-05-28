@@ -1,6 +1,6 @@
 # Bollinger-Band
 
-This is how you do a fucking Bollinger Band
+Gather the daily prices for Apple over the period 2015-2018
 
 ```python
 
