@@ -2,12 +2,7 @@
 
 This is my very **work-in-progress** Github page to upload python files applicable to analysing financial markets and stocks.
 
-# Education
-
-# Work Experience
 ![Name](IMG-20191130-WA00012.jpeg)
-
-
 
 # Quantitative Trade Strategies
 **Trend**
