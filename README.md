@@ -1,4 +1,4 @@
-# Project Python & Finance
+
 
 This is my very **work-in-progress** Github page to upload python files applicable to analysing financial markets and stocks.
 
@@ -6,7 +6,7 @@ This is my very **work-in-progress** Github page to upload python files applicab
 
 
 
-## Quantitative Trade Strategies
+# Quantitative Trade Strategies
 **Trend**
   - Moving averages
   - MACD
@@ -19,7 +19,7 @@ This is my very **work-in-progress** Github page to upload python files applicab
   - [Bollinger Band](Bollinger_Band/Bollinger_Band.md)
   - [Bollinger band backtesting strategy](https://github.com/BRushmere/BRushmere.github.io/blob/master/Bollinger%20band%20backtest.ipynb)
 
-## Machine learning for Financial Statements
+# Machine learning for Financial Statements
 - Supervised
   - Penealized Regression
   - KNN Classification
@@ -29,4 +29,4 @@ This is my very **work-in-progress** Github page to upload python files applicab
   - Clustering Algorithms
   - Dimension Reduction
   
-## Automation of statements
+# Automation of statements
