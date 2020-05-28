@@ -4,6 +4,8 @@ This is my very **work-in-progress** Github page to upload python files applicab
 
 ![Name](IMG-20191130-WA00012.jpeg)
 
+[Contribution guidelines for this project](folder1/Readme2.md)
+
 ## Quantitative Trade Strategies
 **Trend**
   - Moving averages
