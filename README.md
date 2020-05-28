@@ -4,7 +4,7 @@ This is my very **work-in-progress** Github page to upload python files applicab
 
 ![Name](IMG-20191130-WA00012.jpeg)
 
-[Contribution guidelines for this project](Bollinger-Band/Bollinger-band.md)
+[Contribution guidelines for this project](Bollinger-Band/Bollinger-Band.md)
 
 ## Quantitative Trade Strategies
 **Trend**
