@@ -37,3 +37,5 @@ plt.plot(upperBand)
 plt.plot(lowerBand)
 plt.show()
 ```
+Produces the following:
+![bb](bb.png)
