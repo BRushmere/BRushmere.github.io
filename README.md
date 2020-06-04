@@ -14,14 +14,3 @@ This is my website to upload python files applicable to analysing financial mark
 
 # Portfolio Optimization
 
-# Machine learning for Financial Statements
-- Supervised
-  - Penealized Regression
-  - KNN Classification
-  - Decision Trees (CART)
-  - Neural Networks
-- Unsupervised
-  - Clustering Algorithms
-  - Dimension Reduction
-  
-
