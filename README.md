@@ -6,7 +6,7 @@ This is my very **work-in-progress** Github page to upload python files applicab
 
 # Technical analysis
 **Plotting Returns**
-  - [Plotting S&P500 returns](Bollinger_Band/Bollinger_Band.md)
+  - [Plotting S&P500 returns](S&P500_Returns/S&P500_Returns.md)
   
   
   - [Bollinger Band](Bollinger_Band/Bollinger_Band.md)
