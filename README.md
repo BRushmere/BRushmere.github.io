@@ -1,6 +1,6 @@
 # About Me
 
-This is my very **work-in-progress** Github page to upload python files applicable to analysing financial markets and stocks.
+This is my vwebsite to upload python files applicable to analysing financial markets and stocks.
 
 ![Name](IMG-20191130-WA00012.jpeg)
 
