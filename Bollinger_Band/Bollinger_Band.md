@@ -39,3 +39,9 @@ plt.show()
 ```
 Produces the following:
 ![bb](bb.png)
+
+*Bollinger Band Interpretation*
+
+Closing prices above the upper Bollinger band may indicate that currently the stock price is too high and price may decrease soon. The market is said to be overbought.
+
+Closing prices below the lower Bollinger band may be seen as a sign that prices are too low and they may be moving up soon. At this point the market for the stock is said to be oversold.
