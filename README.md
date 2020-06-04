@@ -5,14 +5,7 @@ This is my very **work-in-progress** Github page to upload python files applicab
 ![Name](IMG-20191130-WA00012.jpeg)
 
 # Technical analysis
-**Trend**
-  - Moving averages
-  - MACD
- 
-**Momentum**
-  - RSI
-  
-**Volatility**
+**Plotting Returns**
 
   - [Bollinger Band](Bollinger_Band/Bollinger_Band.md)
   - [Bollinger band backtesting strategy](https://github.com/BRushmere/BRushmere.github.io/blob/master/Bollinger%20band%20backtest.ipynb)
