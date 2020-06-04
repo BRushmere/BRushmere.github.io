@@ -17,4 +17,4 @@ print(SP500.head())
 ```
 We get the outcome of...
 
-![outcome](S&P500_Returns/Screenshot-2020-02-08-at-17.10.47.png)
+![outcome](Screenshot-2020-02-08-at-17.10.47.png)
