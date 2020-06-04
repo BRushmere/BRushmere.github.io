@@ -42,3 +42,10 @@ SP500['daily_return'].plot(title='S&P 500 daily returns')
 ```
 
 ![Plot](Daily_Returns.png)
+
+In addition to the daily returns, we can also plot the S&P 500 price evolution for the last 10 years. Here we can observe a clear upward trend.
+
+```python
+SP500['sp500'].plot(title='S&P 500 Price')
+```
+![trend](trend.png)
