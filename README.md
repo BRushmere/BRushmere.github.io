@@ -12,6 +12,8 @@ This is my vwebsite to upload python files applicable to analysing financial mar
 
 # Fundamental Analysis
 
+# Portfolio Optimization
+
 # Machine learning for Financial Statements
 - Supervised
   - Penealized Regression
