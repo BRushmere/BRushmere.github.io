@@ -1,6 +1,6 @@
 # Bollinger-Band
 
-So this is an example of generating a technical analysis to price stocks over a time frame. This method can be adapted to suit any technical analysis that suits you (e.g  Moving averages, Relative Strength Indicators, Stochastic Oscillators etc.)
+So this is an example of generating technical analysis to price stocks over a time frame. This method can be adapted to suit any technical analysis that suits you (e.g  Moving averages, Relative Strength Indicators, Stochastic Oscillators etc.).
 
 
 Gather the daily prices for Apple over the period 2015-2018
