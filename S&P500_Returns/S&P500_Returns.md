@@ -12,4 +12,9 @@ start = datetime.datetime(2010, 1, 1)
 end = datetime.datetime(2020, 1, 27)
 
 SP500 = web.DataReader(['sp500'], 'fred', start, end)
+
+print(SP500.head())
 ```
+We get the outcome of...
+
+![outcome](S&P500_Returns/Screenshot-2020-02-08-at-17.10.47.png)
