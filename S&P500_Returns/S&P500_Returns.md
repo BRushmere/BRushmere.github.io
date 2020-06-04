@@ -1,3 +1,8 @@
+3 Steps:
+-Retrieving market data
+-Calculating returns
+-Plotting
+
 
 ```python
 
@@ -18,3 +23,11 @@ print(SP500.head())
 We get the outcome of...
 
 ![outcome](Screenshot-2020-02-08-at-17.10.47.png)
+
+```python
+SP500['daily_return'] = (SP500['sp500']/ SP500['sp500'].shift(1)) -1
+
+#Drop all Not a number values using drop method.
+SP500.dropna(inplace = True)
+```
+![name](Screenshot-2020-02-08-at-16.50.41.png)
