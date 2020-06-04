@@ -2,7 +2,7 @@
 
 This is my website to upload python files applicable to analysing financial markets and stocks.
 
-![Name](IMG-20191130-WA00012.jpeg)
+![Name](value_investing.jpg)
 
 # Technical analysis
 
