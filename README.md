@@ -12,7 +12,7 @@ This is my website to upload python files applicable to analysing financial mark
 
 # Algorithmic Trading
 
-# ML for Fundamental Analysis
+# Machine Learning for Fundamental Analysis
 
 # Automation of tasks
 
