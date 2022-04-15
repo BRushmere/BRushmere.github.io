@@ -1,4 +1,4 @@
-# About Me
+# Finance and python
 
 This is my website to upload python files applicable to analysing financial markets and stocks.
 
