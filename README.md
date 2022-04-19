@@ -15,4 +15,6 @@ This is my website to upload python files applicable to analysing financial mark
 # Machine Learning for Fundamental Analysis
 
 # Automation of tasks
-
+  - PDF scraping
+  - File moving
+  - Report compiling
